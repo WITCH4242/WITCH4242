@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WITCH4242
+- 👋 Hi, I’m @WITCH4242 Dev of Witchery bot > http://www.witcherybot.xyz/
 - 👀 I’m interested in discord bots
 - 🌱 I’m currently learning Python and c++
 - 💞️ I’m looking to collaborate on idk
