@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WITCH4242 Dev of Witchery bot > http://www.witcherybot.xyz/
 - 👀 I’m interested in discord bots
 - 🌱 I’m currently learning Python and c++
-- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me discord ♡^✧•W I † C H•✧^♡#0001
 
 <!---
