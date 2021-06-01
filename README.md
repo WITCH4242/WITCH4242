@@ -11,7 +11,7 @@
   <p align="center">
     Witchery Bot developer and catboi
     <br />
-    <a href="http://www.witcherybot.xyz/"><strong>Website »</strong></a>
+    <a href="http://www.witcherybot.xyz/"><strong>Witchery bot site »</strong></a>
     <br />
     <br />
     <a href="http://www.witcherybot.xyz/">View Demo</a>
