@@ -23,7 +23,8 @@
 </p>
 
 **About me:**
-* Im From california *is gay* 🏳️‍🌈
+* Im From california 
+* *is gay* 🏳️‍🌈
 * *is catboi*
 * *is witch* - 4+ years of experience 
 * I code in JavaScript, Java & HTML
