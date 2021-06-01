@@ -50,8 +50,10 @@
 
 <br/>
 
-![Witch's github stats](https://github-readme-stats.vercel.app/api?username=WITCH4242&show_icons=true&theme=dark)
-
+<a href="https://github.com/WITCH4242">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WITCH4242&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WITCH4242&theme=dark&layout=compact" />
+</a>
 
 <br/>
 
