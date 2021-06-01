@@ -11,7 +11,7 @@
   <p align="center">
     Witchery Bot developer and catboi
     <br />
-    <a href="http://www.witcherybot.xyz/"><strong>Explore the docs »</strong></a>
+    <a href="http://www.witcherybot.xyz/"><strong>Website »</strong></a>
     <br />
     <br />
     <a href="http://www.witcherybot.xyz/">View Demo</a>
@@ -22,9 +22,13 @@
   </p>
 </p>
 
-* [Website](http://www.witcherybot.xyz/)
+**About me:**
+* Im From california *is gay* 🏳️‍🌈
+* *is catboi*
+* *is witch* - 4+ years of experience 
+* I code in JavaScript, Java & HTML
+* I’m currently learning Python and c++
 
-- 🌱 I’m currently learning Python and c++
 
 <!---
 WITCH4242/WITCH4242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
