@@ -13,14 +13,9 @@
     <br />
     <a href="http://www.witcherybot.xyz/"><strong>Witchery bot site »</strong></a>
     <br />
-    <br />
-    <a href="http://www.witcherybot.xyz/">View Demo</a>
-    ·
-    <a href="http://www.witcherybot.xyz/">Report Bug</a>
-    ·
-    <a href="http://www.witcherybot.xyz/">Request Feature</a>
   </p>
 </p>
+
 
 **About me:**
 * Im From california 
