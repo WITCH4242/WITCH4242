@@ -30,7 +30,8 @@
 * I code in JavaScript, Java & HTML
 * I’m currently learning Python and c++
 
-🛠 &nbsp;Tech Stack
+
+&nbsp;**Tech Stack**
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
