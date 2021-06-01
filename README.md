@@ -22,7 +22,7 @@
   </p>
 </p>
 
-<h3> **About me:**</h3>
+**About me:**
 * Im From california 
 * *is gay* 🏳️‍🌈
 * *is catboi*
@@ -30,7 +30,7 @@
 * I code in JavaScript, Java & HTML
 * I’m currently learning Python and c++
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
