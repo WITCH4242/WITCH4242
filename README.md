@@ -22,7 +22,7 @@
   </p>
 </p>
 
-**About me:**
+<h3> **About me:**</h3>
 * Im From california 
 * *is gay* 🏳️‍🌈
 * *is catboi*
