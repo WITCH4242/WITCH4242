@@ -22,8 +22,8 @@
 * *is gay* 🏳️‍🌈
 * *is catboi*
 * *is witch* - 4+ years of experience 
-* I code in JavaScript, Java & HTML
-* I’m currently learning Python and c++
+* I code in JavaScript, css, c++ & HTML
+* I’m currently learning Python and Java
 
 
 &nbsp;**Tech Stack**
