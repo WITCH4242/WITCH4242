@@ -1,4 +1,4 @@
-<img src="witcheryWonders PFP.png" alt="Logo" width="600" height="200">
+<img src="Pride month banner.png" alt="Logo" width="600" height="200">
 
 
 <!-- PROJECT LOGO -->
