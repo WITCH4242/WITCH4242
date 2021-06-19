@@ -1,3 +1,5 @@
+<img src="witcheryWonders PFP.png" alt="Logo" width="600" height="200">
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -9,9 +11,15 @@
   <h3 align="center">Witchie :3</h3>
 
   <p align="center">
-    Witchery Bot developer and catboi
+    SUPORT LBGTQ+ (HAPPY PRIDE MONTH!)
     <br />
-    <a href="http://www.witcherybot.xyz/"><strong>Witchery bot site »</strong></a>
+    <a href="http://www.witcherybot.xyz/"><strong> Witchery bot site »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.thetrevorproject.org/"><strong> The Trevor Project </strong></a>
+    <br />
+    <br />
+    <a href="https://stonewallforever.org/"><strong> Stonewall Forever </strong></a>
     <br />
   </p>
 </p>
