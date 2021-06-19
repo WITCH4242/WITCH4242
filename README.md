@@ -17,9 +17,7 @@
     <br />
     <a href="http://www.witcherybot.xyz/"><strong> Witchery bot site »</strong></a>
     <br />
-    <br />
     <a href="https://www.thetrevorproject.org/"><strong> The Trevor Project </strong></a>
-    <br />
     <br />
     <a href="https://stonewallforever.org/"><strong> Stonewall Forever </strong></a>
     <br />
