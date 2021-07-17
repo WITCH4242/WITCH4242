@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Pride month banner.png" alt="Logo" width="600" height="200">
+<img src="witcheryWonders PFP.png" alt="Logo" width="600" height="200">
 </p>
 
 
