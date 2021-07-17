@@ -1,8 +1,3 @@
-<p align="center">
-<img src="witcheryWonders PFP.png" alt="Logo" width="600" height="200">
-</p>
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
