@@ -13,13 +13,8 @@
   <h3 align="center">Witchie :3</h3>
 
   <p align="center">
-    SUPORT LBGTQ+ (HAPPY PRIDE MONTH!)
     <br />
     <a href="http://www.witcherybot.xyz/"><strong> Witchery bot site »</strong></a>
-    <br />
-    <a href="https://www.thetrevorproject.org/"><strong> The Trevor Project </strong></a>
-    <br />
-    <a href="https://stonewallforever.org/"><strong> Stonewall Forever </strong></a>
     <br />
   </p>
 </p>
@@ -27,9 +22,6 @@
 
 **About me:**
 * Im From california 
-* *is gay* 🏳️‍🌈
-* *is catboi*
-* *is witch* - 4+ years of experience 
 * I code in JavaScript, css, c++ & HTML
 * I’m currently learning Python and Java
 
