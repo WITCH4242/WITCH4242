@@ -3,14 +3,14 @@
 <p align="center">
     <img src="witcheryWonders PFP.png" alt="Logo" width="80" height="80">
   </a>
-
-  <h3 align="center">Witchie</h3>
-
   <p align="center">
   </p>
 </p>
 
+<h1> Witchery bot wont be comming back, thank you to everyone who had used it. Thank you for the support. You can see witcherys full code in the pinned section below.
 
+
+Witchery will never been forgoten, it will always be in my heart. 
 
 <br/>
 
