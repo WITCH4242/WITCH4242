@@ -7,7 +7,7 @@
   </p>
 </p>
 
-<h1> Witchery bot wont be comming back, thank you to everyone who had used it. Thank you for the support. You can see witcherys full code in the pinned section below.
+<h1> I dont plan on bringing Witchery back anytime soon, thank you to everyone who had used it. Thank you for the support. You can see witcherys full code in the pinned section below.
 
 
 Witchery will never been forgoten, it will always be in my heart. 
