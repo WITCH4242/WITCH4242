@@ -1,11 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="http://www.witcherybot.xyz/">
     <img src="witcheryWonders PFP.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Witchie :3</h3>
+  <h3 align="center">Witchie</h3>
 
   <p align="center">
   </p>
