@@ -8,9 +8,6 @@
   <h3 align="center">Witchie :3</h3>
 
   <p align="center">
-    <br />
-    <a href="http://www.witcherybot.xyz/"><strong> Witchery bot site »</strong></a>
-    <br />
   </p>
 </p>
 
