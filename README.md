@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="witcheryWonders PFP.png" alt="Logo" width="80" height="80">
+    <img src="b342561555d113e6fa7e1b1df752d558.jpg" alt="Logo" width="80" height="80">
   </a>
   <p align="center">
   </p>
