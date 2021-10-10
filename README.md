@@ -1,37 +1,4 @@
-Last generated: 10/10/2021, 14:58
-
-witch4242@metrics:~$ whoami
-Witchie registered=-2m, uid=0405, gid=1
-  contributed to 4 repositories ##############
-  followed by 0 users
-
-witch4242@metrics:~$ git status
-Recent activity
-    176 commits
-      0 pull requests reviewed
-      0 pull requests opened
-      0 issues opened
-      0 issue comments
-
-Tracked activity
-      0 users followed
-      0 repositories sponsored
-      3 repositories starred
-      3 repositories watched
-
-witch4242@metrics:~$ ls -lh github/repositories
-Total 3 repositories - 255 MB
--r--      1  stargazer
--r--      0  forks
--r--      3  watchers
-dr-x      0  packages
-
-@@ -119k +2.06m @@
-
-witch4242@metrics:~$ locale
-JAVASCRIPT   [####################] 99.58%
-CSS          [#                   ] 0.21 %
-HTML         [#                   ] 0.21 %
+![Metrics](https://metrics.lecoq.io/witch4242?template=terminal&repositories=1&activity=1&lines=1&introduction=1&languages=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=America%2FLos_Angeles)
 
 
 <br/>
