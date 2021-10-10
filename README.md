@@ -1,5 +1,5 @@
 <div align='center'>
-  <div align='right'>
+  <div align='center'>
     <img
       src='https://cdn.discordapp.com/attachments/882071853458391110/894293295499477063/witchie_member.png'
       style='border-radius: 50%;'
