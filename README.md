@@ -8,7 +8,7 @@
     />
   </div>
   <h1>Witchie</h1>
-  <blockquote><strong>Developer of Cabot ~ An occult bot: (https://cabot-bot.xyz/invite)</strong></blockquote>
+  <blockquote><strong>Developer of Cabot ~ An occult bot: (https://cabot-bot.xyz/)</strong></blockquote>
 
   <br />
 
