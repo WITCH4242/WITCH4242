@@ -12,8 +12,6 @@
 
   <br />
 
-  <a href='https://discord.com/users/690007479404331076' target='_blank'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/690007479404331076" /></a>
-  <img alt="what Im listening to" src="https://dev.discordprofiles.me/badge/spotify/690007479404331076" />
   <img alt="who viewed me" src="https://komarev.com/ghpvc/?username=WitchieXCabot" />
 </div>
 
