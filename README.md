@@ -1,7 +1,7 @@
 <div align='center'>
   <div align='center'>
     <img
-      src='https://cdn.discordapp.com/attachments/882071853458391110/894293295499477063/witchie_member.png'
+      src='https://media.discordapp.net/attachments/882071853458391110/992148770471034960/download20211001191509.png'
       style='border-radius: 50%;'
       width='138'
       height='138'
