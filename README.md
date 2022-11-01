@@ -1,14 +1,12 @@
-# WitchieXCabot | <img alt="who viewed me" src="https://komarev.com/ghpvc/?username=WitchieXCabot" />
-<div align='right'>
-  <div align='right'>
+# WitchieXCabot | <img alt="who viewed me" src="https://komarev.com/ghpvc/?username=WitchieXCabot"/>
+ <div align='right'>
     <img
       src='https://media.discordapp.net/attachments/882071853458391110/992148770471034960/download20211001191509.png'
       style='border-radius: 50%;'
       width='138'
       height='138'
     />
-  </div>
-</div>
+ </div>
 **Discord:** [Witchie#0999](https://discord.com/users/690007479404331076)  
 **Email:** witchiedev@cabot-bot.xyz
 
