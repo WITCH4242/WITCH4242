@@ -1,5 +1,5 @@
-<div align='center'>
-  <div align='center'>
+<div align='right'>
+  <div align='right'>
     <img
       src='https://media.discordapp.net/attachments/882071853458391110/992148770471034960/download20211001191509.png'
       style='border-radius: 50%;'
@@ -7,18 +7,13 @@
       height='138'
     />
   </div>
-  <h1>Witchie</h1>
-  <blockquote><strong>Developer of Cabot ~ An occult informational platform</strong></blockquote>
-
-  <br />
-
-  <img alt="who viewed me" src="https://komarev.com/ghpvc/?username=WitchieXCabot" />
 </div>
 
 
 # WitchieXCabot
 **Discord:** [Witchie#0999](https://discord.com/users/690007479404331076)  
 **Email:** witchiedev@cabot-bot.xyz
+<img alt="who viewed me" src="https://komarev.com/ghpvc/?username=WitchieXCabot" />
 
 ### ❔ **Who am I?**  
 A programmer experienced in JavaScript, NodeJS, and the Discord.JS library.  
