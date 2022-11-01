@@ -16,20 +16,50 @@
 </div>
 
 
-![Metrics](https://metrics.lecoq.io/WitchieXCabot?template=classic&isocalendar=1&introduction=1&languages=1&lines=1&activity=1&achievements=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles)
+# WitchieXCabot
+**Discord:** [Witchie#0999](https://discord.com/users/690007479404331076)  
+**Email:** witchiedev@cabot-bot.xyz
 
+### ❔ **Who am I?**  
+A programmer experienced in JavaScript, NodeJS, and the Discord.JS library.  
+I have experience with Guilded's API and creating Transimission Models.  
+Most of my projects are closed source.
 
+## </> Current Occupations </>
 
-<br/>
+**»»» *Founder of Cabot***  
+I am the Founder of [Cabot](https://cabot-bot.xyz/about), an occult Discord bot. Cabot is focused on providing servers with efficient, reliable, and top quality occult information and Divination.  
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=WitchieXCabot&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitchieXCabot&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+**»»» *Developer of Nimue***  
+Nimue is a file and notes editing software. Nime is fully customizable and creates beautifully aesthetic notes and supports 12+ languages, supports large files and notes pages can be fully customized with css, html and js.
 
-<br/>
+**»»» *Creative Director at Mind of Creation***  
+I am the Creative Director at Mind of Creation, a platform for artist of all experience levels to share, learn, communicate, engage and sell on a community platform. Mind of Creation has tons of tutorials unique to the platform that teach different mediums, styles and forms of art.
+I create and manage the art, illustation and designs of the company. 
 
+**»»» *Head of Design at JsDevGames***  
+I'm currently the head of 3d design at JsDevGames, a game development company that focuses on high quality, immersive, interactive and large games and game functions. 
+I oversee, manage and create 3d rigs, models, designs and animation for the company. I also help with the development game utilities and other systems.  
 
+**»»» *Witchery Wonders Staff & Bot Developer***  
+I'm currently a staff at Witchery Wonders, an occult/witchcraft discord server focused on creating a community and a learning place for all level witches.  
+I develop and maintain a Discord bot for Divination tools, Fun commands, moderation functionality and systems for events.  
 
+**»»» *And more...***
 
-<!---
-WitchieXCabot/WitchieXCabot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+    <tr>
+        <td>
+            <a href="https://cabot-bot.xyz/">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=WitchieXCabot&theme=midnight-purple" alt="GitHub Streak">
+            </a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <a href="https://cabot-bot.xyz/">
+                <img src="https://github-readme-stats.vercel.app/api?username=WitchieXCabot&count_private=true&hide=stars,issues&show_icons=true&theme=outrun" alt="GitHub Stats">
+            </a>
+        </td>
+    </tr>
+</table>
