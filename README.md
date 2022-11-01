@@ -1,6 +1,4 @@
 # WitchieXCabot | <img alt="who viewed me" src="https://komarev.com/ghpvc/?username=WitchieXCabot" />
-**Discord:** [Witchie#0999](https://discord.com/users/690007479404331076)  
-**Email:** witchiedev@cabot-bot.xyz
 <div align='right'>
   <div align='right'>
     <img
@@ -11,6 +9,9 @@
     />
   </div>
 </div>
+**Discord:** [Witchie#0999](https://discord.com/users/690007479404331076)  
+**Email:** witchiedev@cabot-bot.xyz
+
 
 ### ❔ **Who am I?**  
 A programmer experienced in JavaScript, NodeJS, and the Discord.JS library.  
