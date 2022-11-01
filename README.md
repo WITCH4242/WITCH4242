@@ -8,7 +8,7 @@
 
 ### ❔ **Who am I?**  
 A programmer experienced in JavaScript, NodeJS, and the Discord.JS library.  
-I have experience with Guilded's API and creating Transimission Models.  
+I have experience with Guilded's API and creating Transimission Models. Intern at Google's UX Design Team.
 Most of my projects are closed source.
 
 ## </> Current Occupations </>
