@@ -48,4 +48,12 @@ I develop and maintain a Discord bot for Divination tools, Fun commands, moderat
             </a>
         </td>
     </tr>
+      <tr>
+        <td>
+            <a href="https://cabot-bot.xyz/">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitchieXCabot&layout=compact&theme=midnight-purple" alt="GitHub Stats">
+            </a>
+        </td>
+    </tr>
 </table>
+
