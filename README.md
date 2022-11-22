@@ -3,7 +3,7 @@
 # WitchieXCabot | <img alt="who viewed me" src="https://komarev.com/ghpvc/?username=WitchieXCabot"/>
 
 **Discord:** [Witchie#0584](https://discord.com/users/690007479404331076)  
-**Email:** witchiedev@cabot-bot.xyz
+**Email:** cabot.bot.xyx@gmail.com
 
 
 ### ❔ **Who am I?**  
