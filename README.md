@@ -27,9 +27,6 @@ I create and manage the art, illustation and designs of the company.
 I'm currently the head of 3d design at JsDevGames, a game development company that focuses on high quality, immersive, interactive and large games and game functions. 
 I oversee, manage and create 3d rigs, models, designs and animation for the company. I also help with the development game utilities and other systems.  
 
-**»»» *Witchery Wonders Staff & Bot Developer***  
-I'm currently a staff at Witchery Wonders, an occult/witchcraft discord server focused on creating a community and a learning place for all level witches.  
-I develop and maintain a Discord bot for Divination tools, Fun commands, moderation functionality and systems for events.  
 
 **»»» *And more...***
 
