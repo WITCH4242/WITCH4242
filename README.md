@@ -16,6 +16,9 @@ Most of my projects are closed source.
 **»»» *Founder of Cabot***  
 I am the Founder of [Cabot](https://cabot-bot.xyz/about), an occult Discord bot. Cabot is focused on providing servers with efficient, reliable, and top quality occult information and Divination.  
 
+**»»» *Founder of The Occult Outpost***  
+I founded and currently operate [The Occult Outpost](https://theoccultoutpost.com/about), an occult/esoteric article, news site. The Occult Outpost: Uncovering the Hidden Realms of Esoteric, Occult, Witchy and Paranormal News, and Realms of much more!
+
 **»»» *Developer of Nimue***  
 Nimue is a file and notes editing software. Nime is fully customizable and creates beautifully aesthetic notes and supports 12+ languages, supports large files and notes pages can be fully customized with css, html and js.
 
