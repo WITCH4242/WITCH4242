@@ -19,9 +19,6 @@ I am the Founder of [Cabot](https://cabot-bot.xyz/about), an occult Discord bot.
 **»»» *Founder of The Occult Outpost***  
 I founded and currently operate [The Occult Outpost](https://theoccultoutpost.com/about), an occult/esoteric article, news site. The Occult Outpost: Uncovering the Hidden Realms of Esoteric, Occult, Witchy and Paranormal News, and Realms of much more!
 
-**»»» *Developer of Nimue***  
-Nimue is a file and notes editing software. Nime is fully customizable and creates beautifully aesthetic notes and supports 12+ languages, supports large files and notes pages can be fully customized with css, html and js.
-
 **»»» *Creative Director at Mind of Creation***  
 I am the Creative Director at Mind of Creation, a platform for artist of all experience levels to share, learn, communicate, engage and sell on a community platform. Mind of Creation has tons of tutorials unique to the platform that teach different mediums, styles and forms of art.
 I create and manage the art, illustation and designs of the company. 
