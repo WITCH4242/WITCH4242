@@ -7,8 +7,8 @@
 
 
 ### ❔ **Who am I?**  
-A programmer experienced in JavaScript, Discord.JS, and web development with next.js, tailwindcss, and react.  
-I have experience with Guilded's API and creating Transimission Models.
+A amature programmer experienced in JavaScript, Discord.JS, and web development with next.js, tailwindcss, and react.  
+I have experience with Guilded's API and creating Data Transimission Models.
 Most of my projects are closed source.
 
 ## </> Current Occupations </>
